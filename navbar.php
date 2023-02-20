@@ -18,7 +18,7 @@ else{
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="https://www.linkedin.com/in/eda-nur-yardım-9a474a202/">EDAMK</a>
+      <a class="navbar-brand" href="https://www.linkedin.com/in/eda-nur-yardım-9a474a202/">EY</a>
     </div>
     <ul class="nav navbar-nav">
       <li class="active"><a href="index.php">Ürünler</a></li>
