@@ -163,7 +163,7 @@ function decCount($product_id){
             $id = $_GET["product_id"];
 
             if(incCount($id)){
-                header("Location:../alışveriş%20sepeti/shopping-cart.php");
+                header("Location:../s/shopping-cart.php");
             }
             else{
                 echo "Bir hata oluştu";
@@ -176,7 +176,7 @@ function decCount($product_id){
             $id = $_GET["product_id"];
 
             if(decCount($id)){
-                header("Location:../alışveriş%20sepeti/shopping-cart.php");
+                header("Location:../s/shopping-cart.php");
             }
             else{
                 echo "Bir hata oluştu";
